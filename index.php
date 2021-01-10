@@ -167,7 +167,7 @@
              }
             ?>
           <div class="col-lg-3 col-6 text-center">
-            <span data-toggle="counter-up">3</span>
+            <span data-toggle="counter-up"><?php echo $smkn; ?></span>
             <p>Sekolah Menengah Kejuruan</p>
           </div>
 
