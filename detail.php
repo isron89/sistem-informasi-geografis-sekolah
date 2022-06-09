@@ -28,7 +28,7 @@ foreach($obj->results as $item){
 $title = "Detail dan Lokasi : ".$titles;
 //include_once "header.php"; ?>
 
-<script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyAh0M3vKIhVO26dTSA_UMx-x2dl1JnM7Lc"></script>
+<script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyAh0M3vKIhVO26dTSA_UMx-x2dl1JKlanb"></script>
 
 <script>
 
