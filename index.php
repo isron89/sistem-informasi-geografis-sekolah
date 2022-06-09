@@ -202,7 +202,7 @@
           </div>
         <div class="panel-body" style="align-content: center;">
           <div id="map" style="width:100%;height:480px;"></div>
-            <script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyAh0M3vKIhVO26dTSA_UMx-x2dl1JnM7Lc"></script>
+            <script src="https://maps.googleapis.com/maps/api/js?libraries=places&key=AIzaSyAh0M3vKIhVO26dTSA_UMx-x2dl1JKlanb"></script>
 
               <script type="text/javascript">
                 function initialize() {
