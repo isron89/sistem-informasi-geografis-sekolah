@@ -1,4 +1,0 @@
-1. Yessy Septiani Yuono = laporan latar belakang, tujuan, manfaat, rumusan masalah, batasan masalah, cdm
-2. Setri Dwi Prasetiani =  desain database, record - edit- upload video, laporan bagian implementasi
-3. Muhammad Hussein Isron = implementasi/program, setting API google maps, diagram dfd
-4. Parole N. D. = diagram usecase, flowchart, kesimpulan, saran
